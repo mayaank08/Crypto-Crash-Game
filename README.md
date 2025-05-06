@@ -1,6 +1,8 @@
-Overview
+OVERVIEW
 
 Crypto Crash is a backend system for an online multiplayer "Crash" game where players place bets in USD, converted to cryptocurrency (BTC/ETH), and attempt to cash out before a game-defined multiplier crashes. This project involves real-time game logic, cryptocurrency integration with live price fetching, and real-time updates via WebSockets.
+
+Live Demo - https://crypto-crash-game.vercel.app/
 
 🧩 Tech Stack
 
